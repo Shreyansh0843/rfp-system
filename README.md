@@ -161,7 +161,7 @@ User Input (Natural Language)
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/rfp-management-system.git
+git clone https://github.com/shreyansh0843/rfp-management-system.git
 cd rfp-management-system
 ```
 
@@ -179,11 +179,7 @@ npm install
 
 4. **Configure Environment Variables** (see below)
 
-5. **Seed Database** (Optional but recommended)
-```bash
-cd backend
-node src/scripts/seed.js
-```
+
 
 6. **Start the Application**
 
@@ -553,7 +549,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Shreyansh Priyadarshi**
 - GitHub: [@Shreyansh0843](https://github.com/Shreyansh0843)
 - LinkedIn: [Shreyansh Priyadarshi](https://linkedin.com/in/shreyansh20)
-- Email: shreyansh@example.com
+- Email: shreyansh12361@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -570,13 +566,13 @@ For issues, questions, or suggestions:
 1. Check the [Troubleshooting](#troubleshooting) section
 2. Review [existing issues](https://github.com/yourusername/rfp-management-system/issues)
 3. Open a new issue with detailed description
-4. Contact: shreyansh@example.com
+4. Contact: shreyansh12361@gmail.com
 
 ## 🌟 Star History
 
 If you find this project useful, please consider giving it a ⭐ on GitHub!
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/rfp-management-system&type=Date)](https://star-history.com/shreyansh0843/rfp-management-system&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=shreyansh0843/rfp-management-system&type=Date)](https://star-history.com/shreyansh0843/rfp-management-system&Date)
 
 ---
 
@@ -589,32 +585,5 @@ If you find this project useful, please consider giving it a ⭐ on GitHub!
 </p>
 ```
 
----
-
-## Additional Files to Create
-
-### 1. **`LICENSE`**
-```
-MIT License
-
-Copyright (c) 2025 Shreyansh Priyadarshi
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
 ```
 
