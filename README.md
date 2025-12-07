@@ -1,12 +1,14 @@
+<img src="https://github.com/Shreyansh0843/rfp-system/blob/main/rfp-system-ss/dashboard.png" alt="Dashboard-image">
+
 <h1 align="center">
   RFP MANAGEMENT SYSTEM
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Stack-MERN-green" alt="MERN Stack">
-  <img src="https://img.shields.io/badge/AI-OpenAI%20GPT--4-blue" alt="OpenAI">
-  <img src="https://img.shields.io/badge/License-MIT-blue" alt="License">
-  <img src="https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen" alt="Node Version">
+  <img src="https://github.com/Shreyansh0843/rfp-system/blob/main/rfp-system-ss/AddNewVendorPage.png" alt="Adding-New-Vendor">
+  <img src="https://github.com/Shreyansh0843/rfp-system/blob/main/rfp-system-ss/CreateRFPpage.png" alt="Create-RFP-Page">
+  <img src="https://github.com/Shreyansh0843/rfp-system/blob/main/rfp-system-ss/RFPListingPage.png" alt="RFP-LISTING-PAGE">
+  <img src="https://github.com/Shreyansh0843/rfp-system/blob/main/rfp-system-ss/VendorListPage.png" alt="Vendor-List-Page">
 </p>
 
 # 🤖 AI-Powered RFP Management System
