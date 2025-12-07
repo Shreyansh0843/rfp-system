@@ -52,10 +52,12 @@ app.use((req, res) => {
 app.use(errorHandler);
 
 // Start server
-const PORT = process.env.PORT || 5000;
-app.listen(PORT, () => {
-  logger.info(`Server running on port ${PORT}`);
-  console.log(`🚀 Server running on http://localhost:${PORT}`);
-});
+if(process.env.NODE_ENV !== "production{
+   const PORT = process.env.PORT || 5000;
+   app.listen(PORT, () => {
+    logger.info(`Server running on port ${PORT}`);
+    console.log(`🚀 Server running on http://localhost:${PORT}`);
+  });
+   }
 
-module.exports = app;
+module.exports = { app, server };
