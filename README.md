@@ -1,32 +1,32 @@
-
+## 🖼️ Screenshots
 
 
 <details>
-<summary>Dashboard</summary>
+<summary>🏠 Dashboard</summary>
 <br>
 <img src="https://github.com/Shreyansh0843/rfp-system/blob/main/rfp-system-ss/dashboard.png" alt="Dashboard-image" width="100%"/>
 </details>
 
 <details>
-<summary>RFP Listing Page</summary>
+<summary>📅 RFP Listing Page</summary>
 <br>
  <img src="https://github.com/Shreyansh0843/rfp-system/blob/main/rfp-system-ss/RFPListingPage.png" alt="RFP-LISTING-PAGE" width="100%"/>
 </details>
 
 <details>
-<summary>Vendor List Page</summary>
+<summary>👤 Vendor List Page</summary>
 <br>
-<img src="https://github.com/Shreyansh0843/prescripto/blob/main/prescripto-image/image4.png" alt="Doctor Portal" width="100%"/>
+ <img src = "https://github.com/Shreyansh0843/rfp-system/blob/main/rfp-system-ss/VendorListPage.png" alt = "Vendor List Page" width = "100% />
 </details>
 
 <details>
-<summary>Adding New Vendor</summary>
+<summary>👤 Adding New Vendor</summary>
 <br>
 <img src="https://github.com/Shreyansh0843/rfp-system/blob/main/rfp-system-ss/AddNewVendorPage.png" alt="Adding-New-Vendor" width="100%" />
 </details>
 
 <details>
-<summary>Create RFP Page</summary>
+<summary>📅 Create RFP Page</summary>
 <br>
 <img src="https://github.com/Shreyansh0843/rfp-system/blob/main/rfp-system-ss/CreateRFPpage.png" alt="Create-RFP-Page" width="100%" />
 </details>
